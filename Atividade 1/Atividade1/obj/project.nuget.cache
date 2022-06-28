@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZmnfPJKQQxsva1QOeG5+SOt9B1f8F3fnKlk29Al902e0p7f+vwxXl/dphevvqBR8u+yaL761opGZiRLAonyeNA==",
+  "success": true,
+  "projectFilePath": "C:\\Arquitetura de microservicos\\Atividade 1\\Atividade1\\GeekBurger.Products.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vini_\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.26\\microsoft.aspnetcore.jsonpatch.3.1.26.nupkg.sha512",
+    "C:\\Users\\vini_\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.26\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.26.nupkg.sha512",
+    "C:\\Users\\vini_\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\vini_\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\vini_\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
